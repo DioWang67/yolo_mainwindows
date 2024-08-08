@@ -1,0 +1,2 @@
+CNN module 70k sample
+

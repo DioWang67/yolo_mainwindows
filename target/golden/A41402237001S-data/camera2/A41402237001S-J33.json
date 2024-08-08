@@ -1,0 +1,47 @@
+{
+    "A41402237001S-J33-1.jpg": {
+        "image_name": "A41402237001S-J33-1.jpg",
+        "region_coordinates": {
+            "x": 804,
+            "y": 281,
+            "width": 40,
+            "height": 23
+        },
+        "image_processing": {
+            "scale_factor": 4.3,
+            "block_size": 31,
+            "c": 6,
+            "kernel_size": 5
+        }
+    },
+    "A41402237001S-J33-2.jpg": {
+        "image_name": "A41402237001S-J33-2.jpg",
+        "region_coordinates": {
+            "x": 804,
+            "y": 281,
+            "width": 40,
+            "height": 23
+        },
+        "image_processing": {
+            "scale_factor": 4.7,
+            "block_size": 31,
+            "c": 4,
+            "kernel_size": 7
+        }
+    },
+    "A41402237001S-J33-3.jpg": {
+        "image_name": "A41402237001S-J33-3.jpg",
+        "region_coordinates": {
+            "x": 804,
+            "y": 281,
+            "width": 40,
+            "height": 23
+        },
+        "image_processing": {
+            "scale_factor": 3.6,
+            "block_size": 43,
+            "c": 4,
+            "kernel_size": 11
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "A41402237001S-J23-1.jpg": {
+        "image_name": "A41402237001S-J23-1.jpg",
+        "region_coordinates": {
+            "x": 594,
+            "y": 178,
+            "width": 35,
+            "height": 25
+        },
+        "image_processing": {
+            "scale_factor": 4.0,
+            "block_size": 27,
+            "c": 8,
+            "kernel_size": 5
+        }
+    },
+    "A41402237001S-J23-3.jpg": {
+        "image_name": "A41402237001S-J23-3.jpg",
+        "region_coordinates": {
+            "x": 594,
+            "y": 178,
+            "width": 35,
+            "height": 25
+        },
+        "image_processing": {
+            "scale_factor": 4.6,
+            "block_size": 55,
+            "c": 11,
+            "kernel_size": 13
+        }
+    }
+}

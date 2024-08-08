@@ -1,0 +1,47 @@
+{
+    "A41402237001S-J13-1.jpg": {
+        "image_name": "A41402237001S-J13-1.jpg",
+        "region_coordinates": {
+            "x": 647,
+            "y": 108,
+            "width": 38,
+            "height": 24
+        },
+        "image_processing": {
+            "scale_factor": 4.9,
+            "block_size": 43,
+            "c": 4,
+            "kernel_size": 7
+        }
+    },
+    "A41402237001S-J13-2.jpg": {
+        "image_name": "A41402237001S-J13-2.jpg",
+        "region_coordinates": {
+            "x": 647,
+            "y": 108,
+            "width": 38,
+            "height": 24
+        },
+        "image_processing": {
+            "scale_factor": 4.1,
+            "block_size": 49,
+            "c": 5,
+            "kernel_size": 5
+        }
+    },
+    "A41402237001S-J13-3.jpg": {
+        "image_name": "A41402237001S-J13-3.jpg",
+        "region_coordinates": {
+            "x": 647,
+            "y": 108,
+            "width": 38,
+            "height": 24
+        },
+        "image_processing": {
+            "scale_factor": 4.2,
+            "block_size": 43,
+            "c": 5,
+            "kernel_size": 7
+        }
+    }
+}

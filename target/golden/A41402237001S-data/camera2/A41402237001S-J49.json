@@ -1,0 +1,92 @@
+{
+    "A41402237001S-J49-1.jpg": {
+        "image_name": "A41402237001S-J49-1.jpg",
+        "region_coordinates": {
+            "x": 676,
+            "y": 328,
+            "width": 38,
+            "height": 25
+        },
+        "image_processing": {
+            "scale_factor": 4.4,
+            "block_size": 31,
+            "c": 4,
+            "kernel_size": 5
+        }
+    },
+    "A41402237001S-J49-2.jpg": {
+        "image_name": "A41402237001S-J49-2.jpg",
+        "region_coordinates": {
+            "x": 676,
+            "y": 328,
+            "width": 38,
+            "height": 25
+        },
+        "image_processing": {
+            "scale_factor": 3.8,
+            "block_size": 49,
+            "c": 3,
+            "kernel_size": 11
+        }
+    },
+    "A41402237001S-J49-3.jpg": {
+        "image_name": "A41402237001S-J49-3.jpg",
+        "region_coordinates": {
+            "x": 676,
+            "y": 328,
+            "width": 38,
+            "height": 25
+        },
+        "image_processing": {
+            "scale_factor": 4.0,
+            "block_size": 57,
+            "c": 6,
+            "kernel_size": 9
+        }
+    },
+    "A41402237001S-J49-4.jpg": {
+        "image_name": "A41402237001S-J49-4.jpg",
+        "region_coordinates": {
+            "x": 670,
+            "y": 327,
+            "width": 46,
+            "height": 25
+        },
+        "image_processing": {
+            "scale_factor": 4.8,
+            "block_size": 47,
+            "c": 10,
+            "kernel_size": 5
+        }
+    },
+    "A41402237001S-J49-5.jpg": {
+        "image_name": "A41402237001S-J49-5.jpg",
+        "region_coordinates": {
+            "x": 670,
+            "y": 327,
+            "width": 46,
+            "height": 25
+        },
+        "image_processing": {
+            "scale_factor": 4.5,
+            "block_size": 27,
+            "c": 3,
+            "kernel_size": 9
+        }
+    },
+    "A41402237001S-J49-6.jpg": {
+        "image_name": "A41402237001S-J49-6.jpg",
+        "region_coordinates": {
+            "x": 670,
+            "y": 327,
+            "width": 46,
+            "height": 25
+        },
+        "image_processing": {
+            "scale_factor": 5.0,
+            "block_size": 37,
+            "c": 3,
+            "kernel_size": 9
+        }
+    }
+}

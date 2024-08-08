@@ -1,0 +1,184 @@
+ERROR:root:Error reading image: OpenCV(4.9.0) :-1: error: (-5:Bad argument) in function 'cvtColor'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+ERROR:root:Error reading image: OpenCV(4.9.0) :-1: error: (-5:Bad argument) in function 'cvtColor'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+ERROR:root:Error reading image: OpenCV(4.9.0) :-1: error: (-5:Bad argument) in function 'cvtColor'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+ERROR:root:Error reading image: OpenCV(4.9.0) :-1: error: (-5:Bad argument) in function 'cvtColor'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+ERROR:root:Error reading image: OpenCV(4.9.0) :-1: error: (-5:Bad argument) in function 'cvtColor'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+ERROR:root:Error reading image: OpenCV(4.9.0) :-1: error: (-5:Bad argument) in function 'cvtColor'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+ERROR:root:Error reading image: cannot access local variable 'processed_image' where it is not associated with a value
+ERROR:root:Error reading image: cannot access local variable 'processed_image' where it is not associated with a value
+ERROR:root:Error reading image: cannot access local variable 'processed_image' where it is not associated with a value
+ERROR:root:Error reading image: cannot access local variable 'processed_image' where it is not associated with a value
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: name 'gray_image' is not defined
+ERROR:root:Error reading image: name 'gray_image' is not defined
+ERROR:root:Error reading image: ImageTextComparer.update_image() missing 1 required positional argument: 'params'
+ERROR:root:Error reading image: ImageTextComparer.update_image() missing 1 required positional argument: 'params'
+ERROR:root:Error reading image: cannot access local variable 'filtered_text' where it is not associated with a value
+ERROR:root:Error reading image: cannot access local variable 'filtered_text' where it is not associated with a value
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: OpenCV(4.9.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x59191d0d::Set<1,-1,-1>,struct cv::impl::A0x59191d0d::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+ERROR:root:Error reading image: D:\Git\Talus_AOI0723\module\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
